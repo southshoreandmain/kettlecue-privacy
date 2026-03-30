@@ -1,19 +1,19 @@
-# KettleQ Privacy Policy
+# KettleCue Privacy Policy
 
 
 
-KettleQ ("we", "our", or "us") respects your privacy. This Privacy Policy explains how information is handled when you use the KettleQ mobile application.
+KettleCue ("we", "our", or "us") respects your privacy. This Privacy Policy explains how information is handled when you use the KettleQ mobile application.
 
 ## Information We Collect
 
-KettleQ does not collect, store, or share any personal data.
+KettleCue does not collect, store, or share any personal data.
 
 ## Microphone and Speech Recognition
 
-KettleQ uses your device’s microphone to enable voice commands (such as saying "next" to move between exercises).
+KettleCue uses your device’s microphone to enable voice commands (such as saying "next" to move between exercises).
 
 - Audio is processed locally on your device using Apple’s speech recognition services.
-- KettleQ does not record, store, or transmit your voice data.
+- KettleCue does not record, store, or transmit your voice data.
 - Voice input is only used to control app functionality in real time.
 
 ## Data Storage
@@ -23,11 +23,11 @@ KettleQ uses your device’s microphone to enable voice commands (such as saying
 
 ## Third-Party Services
 
-KettleQ does not use third-party analytics, advertising, or tracking services.
+KettleCue does not use third-party analytics, advertising, or tracking services.
 
 ## Children’s Privacy
 
-KettleQ does not knowingly collect any personal information from children.
+KettleCue does not knowingly collect any personal information from children.
 
 ## Changes to This Policy
 
